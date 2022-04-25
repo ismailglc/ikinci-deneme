@@ -1,0 +1,2 @@
+# ikinci-deneme
+Öğrenmeye çalışıyorum
